@@ -1,0 +1,1 @@
+# each xuid that has ran through the farming script will end up in this database to ensure you aren't wasting your time going over the same profiles over and over

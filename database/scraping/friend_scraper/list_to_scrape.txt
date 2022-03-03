@@ -1,0 +1,1 @@
+# place your list of XUID's to scrape the friends lists of

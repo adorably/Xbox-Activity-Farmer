@@ -1,0 +1,1 @@
+# cleaned output file of the scraped activity posts from the main farming script
